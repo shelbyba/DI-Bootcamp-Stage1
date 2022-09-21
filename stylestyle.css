@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1512386233331-f023884a92e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=895&q=80);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(56, 66, 65)
+}
+span{
+font-style: italic;
+}
+h3{
+    color: white;
+    text-decoration: underline;
+    
+}
+h3:hover{
+    background-color: rgb(56, 66, 65);
+    margin-right: 95%;
+    cursor: pointer;
+}
